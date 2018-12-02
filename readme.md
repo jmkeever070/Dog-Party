@@ -14,13 +14,13 @@ This is a project designed for students to practice improving their basic HTML a
 * A comp was provided, which the end product design should accurately represent.
 
 2. Increase skills in HTML.
-* Focus on writing properly structured HTML.
+* Focus on writing properly structured HTML according to the Turing HTML Style Guide.
 
 3. Increase skills in CSS.
-* Focus on having DRY CSS.
+* Focus on having DRY CSS using the Turing CSS Style Guide.
 
 4. Incorporation of JavaScript if possible.
-* Begin experimenting with JavaScript extensions if student feels comfortable.
+* Begin experimenting with JavaScript extensions.
 
 # How it was made
 
@@ -32,7 +32,7 @@ Standard HTML and CSS
 
 # Screenshots
 
-## Comp
+## Turing Comp
 ![image](https://user-images.githubusercontent.com/43790434/49345685-6c014900-f645-11e8-8f5d-c014e1885578.png)
 
 ## My Dog Party
