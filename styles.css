@@ -1,0 +1,152 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.dog-icon {
+  width: 40px;
+}
+
+h1  {
+  margin-top: 0;
+  font-weight: 100;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+
+nav {
+  background-color: #75e2e6;
+}
+
+.dog-name {
+  font-weight: 900;
+}
+
+.top {
+  float: right;
+  margin: 10px;
+  font-weight: bold;
+  font-size: 13px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.dog-park-section {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("images/park.jpg") center center;
+  text-align: center;
+  background-size: cover;
+  
+}
+
+.dog-1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #75e2e6;
+  width: 15%;
+}
+
+.dog-titles {
+ margin-top:6px;
+}
+
+.nameboxtitle{
+  color: ffffff;
+  font-size: 10px;
+  margin: 0px 172px -18px 0px;
+}
+
+.namebox {
+  width: 200px
+}
+
+.namethisdog{
+  width: 200px;
+  background-color: #75e2e6;
+  margin-bottom: 13px;
+}
+
+.dog-circle {
+  width: 55%;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #75e2e6;
+}
+
+.info {
+
+}
+
+.artcenter {
+  text-align:center;
+}
+
+.art1 {    
+  display: inline-block;
+  width: 30.3%;
+  margin: 0px 0px 0px 56px;
+}
+
+.art2 {    
+  display: inline-block;
+  width: 30.3%;
+  margin: 0px;
+}
+
+.art3 {    
+  display: inline-block;
+  width: 30.3%;
+  margin: 0px;
+}
+
+.artbuttons {
+  background-color: #048eaa;
+  color: #ffffff;
+  height: 34px;
+  margin-left: 120px;
+  width: 188px;
+}
+
+footer {
+  background-color: #048eaa;
+  color: #ffffff;
+  text-align: center;
+  height: 177px;
+}
+
+footer p {
+  font-size: 14px;
+  padding-top: 50px;
+}
+
+.logo {
+  width: 40px;
+  padding-bottom: 22px;
+}
+
+.dog-4 {
+  margin-bottom: -3px;
+}
+
+.facts {
+  margin-bottom: 38px;
+}
+
+@media screen and (max-width: 1360px){
+
+  .dog-titles {
+    padding-bottom: 6px;
+  }
+
+  .dog-4 {
+    margin-bottom:
+    18px;
+  }
+
+  .dog-2 {
+    margin-bottom: 22px;
+  }
+
