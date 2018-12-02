@@ -35,5 +35,5 @@ Standard HTML and CSS
 ## Turing Comp
 ![image](https://user-images.githubusercontent.com/43790434/49345685-6c014900-f645-11e8-8f5d-c014e1885578.png)
 
-## My Dog Party
+## My Dog Party (full view)
 ![image](https://user-images.githubusercontent.com/43790434/49345690-7885a180-f645-11e8-9312-1019fa21809b.png)
