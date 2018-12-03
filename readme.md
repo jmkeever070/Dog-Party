@@ -30,6 +30,12 @@ Created with a combination of HMTL and CSS
 
 Standard HTML and CSS
 
+# Challenges
+
+I had a few problems with proper column positioning. There seems to be a "space" on the upper part of the articles I couldn't quite figure out.
+
+The buttons below the articles continue to move as you resize the page.
+
 # Screenshots
 
 ## Turing Comp
