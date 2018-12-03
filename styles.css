@@ -35,7 +35,6 @@ nav {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("images/park.jpg") center center;
   text-align: center;
   background-size: cover;
-  
 }
 
 .dog-1 {
@@ -53,7 +52,7 @@ nav {
  margin-top:6px;
 }
 
-.nameboxtitle{
+.nameboxtitle {
   color: ffffff;
   font-size: 10px;
   margin: 0px 172px -18px 0px;
@@ -63,7 +62,7 @@ nav {
   width: 200px
 }
 
-.namethisdog{
+.namethisdog {
   width: 200px;
   background-color: #75e2e6;
   margin-bottom: 13px;
@@ -74,10 +73,6 @@ nav {
   border-radius: 50%;
   border-style: solid;
   border-color: #75e2e6;
-}
-
-.info {
-
 }
 
 .artcenter {
